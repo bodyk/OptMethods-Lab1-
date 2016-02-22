@@ -1,0 +1,9 @@
+C:\Users\Bodya\Desktop\First(MethodOpt)\First(MethodOpt)\bin\Debug\First(MethodOpt).exe.config
+C:\Users\Bodya\Desktop\First(MethodOpt)\First(MethodOpt)\bin\Debug\First(MethodOpt).exe
+C:\Users\Bodya\Desktop\First(MethodOpt)\First(MethodOpt)\bin\Debug\First(MethodOpt).pdb
+C:\Users\Bodya\Desktop\First(MethodOpt)\First(MethodOpt)\obj\Debug\First(MethodOpt).csprojResolveAssemblyReference.cache
+C:\Users\Bodya\Desktop\First(MethodOpt)\First(MethodOpt)\obj\Debug\First_MethodOpt_.Form1.resources
+C:\Users\Bodya\Desktop\First(MethodOpt)\First(MethodOpt)\obj\Debug\First_MethodOpt_.Properties.Resources.resources
+C:\Users\Bodya\Desktop\First(MethodOpt)\First(MethodOpt)\obj\Debug\First(MethodOpt).csproj.GenerateResource.Cache
+C:\Users\Bodya\Desktop\First(MethodOpt)\First(MethodOpt)\obj\Debug\First(MethodOpt).exe
+C:\Users\Bodya\Desktop\First(MethodOpt)\First(MethodOpt)\obj\Debug\First(MethodOpt).pdb
